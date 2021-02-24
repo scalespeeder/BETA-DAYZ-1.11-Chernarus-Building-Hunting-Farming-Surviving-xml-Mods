@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+<event name="AnimalBear">
+        <nominal>0</nominal>
+        <min>4</min>
+        <max>4</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_UrsusArctos"/>
+        </children>
+    </event>
+	 <event name="AnimalDeer">
+        <nominal>15</nominal>
+        <min>4</min>
+        <max>6</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CervusElaphus"/>
+            <child lootmax="0" lootmin="0" max="3" min="1" type="Animal_CervusElaphusF"/>
+        </children>
+    </event>
+	<event name="AnimalRoeDeer">
+        <nominal>15</nominal>
+        <min>4</min>
+        <max>6</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CapreolusCapreolus"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_CapreolusCapreolusF"/>
+        </children>
+    </event>
+	 <event name="AnimalWildBoar">
+        <nominal>14</nominal>
+        <min>4</min>
+        <max>8</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="6" min="3" type="Animal_SusScrofa"/>
+        </children>
+    </event>
+	  <event name="AnimalWolf">
+        <nominal>12</nominal>
+        <min>6</min>
+        <max>8</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="6" min="2" type="Animal_CanisLupus_Grey"/>
+            <child lootmax="0" lootmin="0" max="4" min="0" type="Animal_CanisLupus_White"/>
+        </children>
+    </event>
+	</events>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+	<damage min="0.1" max="0.2" />
+<type name="MakarovIJ70">
+		<attachments chance="1.00">
+			<item name="Mag_IJ70_8Rnd" chance="1.00" />
+		</attachments>
+		<!-- MakarovPBSuppressor -->
+	</type>
+	<type name="MKII">
+		<attachments chance="1.00">
+			<item name="Mag_MKII_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CZ75">
+		<attachments chance="1.00">
+			<item name="Mag_CZ75_15Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.05">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TLRLight" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Glock19">
+		<attachments chance="0.05">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="0.05">
+			<item name="TLRLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Glock_15Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FNX45">
+		<attachments chance="1.00">
+			<item name="Mag_FNX45_15Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.05">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TLRLight" chance="1.00" />
+		</attachments>
+		<attachments chance="0.15">
+			<item name="FNP45_MRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CZ61">
+		<attachments chance="0.10">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ61_20Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="MP5K">
+		<attachments chance="0.05">
+			<item name="MP5_RailHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MP5_PlasticHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MP5k_StockBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_MP5_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="BUISOptic" chance="0.30" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.10" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="MP5_Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.05">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="UMP45">
+		<attachments chance="1.00">
+			<item name="Mag_UMP_25Rnd" chance="1.00" />
+		</attachments>
+		<!-- Mag_UMP_25Rnd -->
+		<attachments chance="0.30">
+			<item name="BUISOptic" chance="0.15" />
+			<item name="M68Optic" chance="0.15" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.30" />
+		</attachments>
+		<attachments chance="0.05">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TLRLight" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="VSS">
+		<attachments chance="1.0">
+			<item name="PSO11Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_VSS_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="ASVAL">
+		<attachments chance="1.00">
+			<item name="Mag_VAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>	
+		<attachments chance="0.10">
+			<item name="TLRLight" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CZ527">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ527_5rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Winchester70">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Mosin9130">
+		<attachments chance="1.00">
+			<item name="Mosin_Compensator" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+	</type>
+<type name="FAL">
+		<attachments chance="0.30">
+			<item name="Fal_FoldingBttstck" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Fal_OeBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="BUISOptic" chance="0.20" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SVD">
+		<subcounter min="30" max="60" />
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PSO11Optic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Colt1911">
+		<attachments chance="0.05">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_1911_7Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Engraved1911">
+		<attachments chance="0.15">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_1911_7Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="B95">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Saiga">
+		<attachments chance="1.00">
+			<item name="Saiga_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Saiga_Drum20Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ruger1022">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Ruger1022_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Deagle">
+		<attachments chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Deagle_Gold">
+		<attachments chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</attachments>
+	</type>
+	</spawnabletypes>
