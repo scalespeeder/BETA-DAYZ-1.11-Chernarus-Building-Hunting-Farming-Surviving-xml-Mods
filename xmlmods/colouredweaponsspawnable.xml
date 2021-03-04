@@ -9,14 +9,13 @@
 			<item name="M4_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="M4_CarryHandleOptic" chance="1.00" />
+			<item name="ACOGOptic" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_STANAG_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
-	
-	<type name="M4A1_Black">
+	<!-- <type name="M4A1_Black">
 		<attachments chance="1.00">
 			<item name="M4_OEBttstck_Black" chance="1.00" />
 		</attachments>
@@ -30,7 +29,6 @@
 			<item name="Mag_STANAG_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
-	
 	<type name="M4A1_Green">
 		<attachments chance="1.00">
 			<item name="M4_OEBttstck_Green" chance="1.00" />
@@ -44,7 +42,7 @@
 		<attachments chance="1.00">
 			<item name="Mag_STANAG_30Rnd" chance="1.00" />
 		</attachments>
-	</type>
+	</type> -->
 	<type name="AK101">
 		<attachments chance="0.30">
 			<item name="AK_FoldingBttstck" chance="0.30" />
@@ -72,8 +70,7 @@
 			<item name="Mag_AK101_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
-	
-	<type name="AK101_Black">
+	<!-- <type name="AK101_Black">
 		<attachments chance="0.30">
 			<item name="AK_FoldingBttstck" chance="0.30" />
 		</attachments>
@@ -100,7 +97,6 @@
 			<item name="Mag_AK101_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
-	
 	<type name="AK101_Green">
 		<attachments chance="0.30">
 			<item name="AK_FoldingBttstck" chance="0.30" />
@@ -127,7 +123,7 @@
 		<attachments chance="1.00">
 			<item name="Mag_AK101_30Rnd" chance="1.00" />
 		</attachments>
-	</type>
+	</type> -->
 	<type name="AK74">
 		<attachments chance="1.00">
 			<item name="AK_FoldingBttstck" chance="0.10" />
@@ -161,8 +157,7 @@
 			<item name="Mag_AK74_30Rnd" chance="1.00" />
 		</attachments>
 			</type>
-			
-		<type name="AK74_Black">
+		<!-- <type name="AK74_Black">
 		<attachments chance="1.00">
 			<item name="AK_FoldingBttstck_Black" chance="0.10" />
 		</attachments>
@@ -195,7 +190,6 @@
 			<item name="Mag_AK74_30Rnd" chance="1.00" />
 		</attachments>
 			</type>
-			
 		<type name="AK74_Green">
 		<attachments chance="1.00">
 			<item name="AK_FoldingBttstck_Green" chance="0.10" />
@@ -228,8 +222,7 @@
 		<attachments chance="1.00">
 			<item name="Mag_AK74_30Rnd" chance="1.00" />
 		</attachments>
-			</type>
-			
+			</type> -->
 			<type name="AKS74U">
 		<attachments chance="1.00">
 			<item name="AK_FoldingBttstck" chance="0.10" />
@@ -250,8 +243,7 @@
 			<item name="Mag_AK74_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
-	
-	<type name="AKS74U_Black">
+	<!-- <type name="AKS74U_Black">
 		<attachments chance="1.00">
 			<item name="AK_FoldingBttstck_Black" chance="0.10" />
 		</attachments>
@@ -271,7 +263,6 @@
 			<item name="Mag_AK74_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
-	
 	<type name="AKS74U_Green">
 		<attachments chance="1.00">
 			<item name="AK_FoldingBttstck_Green" chance="0.10" />
@@ -291,7 +282,7 @@
 		<attachments chance="1.00">
 			<item name="Mag_AK74_30Rnd" chance="1.00" />
 		</attachments>
-	</type>
+	</type> -->
 	<type name="Mosin9130">
 		<attachments chance="1.00">
 			<item name="Mosin_Compensator" chance="0.10" />
@@ -300,8 +291,7 @@
 			<item name="PUScopeOptic" chance="1.00" />
 		</attachments>
 	</type>
-	
-	<type name="Mosin9130_Black">
+	<!-- <type name="Mosin9130_Black">
 		<attachments chance="1.00">
 			<item name="Mosin_Compensator" chance="0.10" />
 		</attachments>
@@ -309,7 +299,6 @@
 			<item name="PUScopeOptic" chance="1.00" />
 		</attachments>
 	</type>
-	
 	<type name="Mosin9130_Camo">
 		<attachments chance="1.00">
 			<item name="Mosin_Compensator" chance="0.10" />
@@ -318,7 +307,6 @@
 			<item name="PUScopeOptic" chance="1.00" />
 		</attachments>
 	</type>
-	
 	<type name="Mosin9130_Green">
 		<attachments chance="1.00">
 			<item name="Mosin_Compensator" chance="0.10" />
@@ -326,5 +314,5 @@
 		<attachments chance="1.00">
 			<item name="PUScopeOptic" chance="1.00" />
 		</attachments>
-	</type>
+	</type> -->
 	</spawnabletypes>

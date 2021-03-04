@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-
 <spawnabletypes>
 	<damage min="0.1" max="0.2" />
 <type name="MakarovIJ70">
@@ -215,6 +214,11 @@
 	<type name="Deagle_Gold">
 		<attachments chance="1.00">
 			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SKS">
+		<attachments chance="1.00">
+			<item name="PUScopeOptic" chance="1.00" />
 		</attachments>
 	</type>
 	</spawnabletypes>

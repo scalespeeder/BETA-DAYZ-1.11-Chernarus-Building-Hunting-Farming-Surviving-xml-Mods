@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <type name="M4A1">
-        <nominal>20</nominal>
+        <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>17</min>
@@ -11,15 +11,14 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-		<usage name="Police"/>
 		<value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-    <type name="M4A1_Black">
+	<type name="M4A1_Black">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>17</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -27,7 +26,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
 		<usage name="Military"/>
-		<usage name="Police"/>
 		<value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -35,7 +33,7 @@
     <type name="M4A1_Green">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>17</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -43,13 +41,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
 		<usage name="Military"/>
-		<usage name="Police"/>
 		<value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
 	<type name="AK101">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>8</min>
@@ -59,10 +56,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
 		<value name="Tier3"/>
+		<value name="Tier4"/>
     </type>
-    <type name="AK101_Black">
+	<type name="AK101_Black">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -91,7 +88,7 @@
 		<value name="Tier3"/>
     </type>
 	 <type name="AK74">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>7</min>
@@ -101,7 +98,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-		<usage name="Farm"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -117,7 +113,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-		<usage name="Farm"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -133,13 +128,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-		<usage name="Farm"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
 	 <type name="AKS74U">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>7</min>
@@ -149,9 +143,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-		<usage name="Village"/>
     </type>
-    <type name="AKS74U_Black">
+	<type name="AKS74U_Black">
        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -162,7 +155,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-		<usage name="Village"/>
     </type>
     <type name="AKS74U_Green">
        <nominal>10</nominal>
@@ -175,12 +167,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-		<usage name="Village"/>
     </type>
 	 <type name="Mosin9130">
         <nominal>70</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -193,10 +184,10 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-    <type name="Mosin9130_Black">
+	<type name="Mosin9130_Black">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -212,7 +203,7 @@
     <type name="Mosin9130_Camo">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -228,7 +219,7 @@
     <type name="Mosin9130_Green">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -240,5 +231,5 @@
         <usage name="Hunting"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-    </type>
+    </type> 
 	</types>
